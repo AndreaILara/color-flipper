@@ -1,11 +1,11 @@
 import "./style.css";
 
 const COLOR_PALETTE = {
-  "#28262C": "Raisin Black",
-  "#998FC7": "Blue Bell",
-  "#D4C2FC": "Lavender Blue",
-  "#F9F5FF": "Magnolia",
-  "#14248A": "Resolution Blue",
+  "#cdb4db": "Lila",
+  "#ffc8dd": "Pink",
+  "#ffafcc": "Dark Pink",
+  "#bde0fe": "Light Blue",
+  "#a2d2ff": "Resolution Blue",
 };
 
 Object.keys(COLOR_PALETTE).forEach((color) => {
